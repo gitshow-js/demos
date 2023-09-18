@@ -4,10 +4,3 @@
 
 Welcome to GitShow!
 
----
-
-# Introduction
-
-- Veni
-- Vidi
-- Vici

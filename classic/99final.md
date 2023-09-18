@@ -1,6 +1,6 @@
 <!-- .slide: class="section" -->
  
 <header>
-    <h1>Thank you for your attention!</h1>
-    <p>Feel free to ask me any questions</p>
+    <h1>Enjoy GitShow!</h1>
+    <p>Many thanks to <a href="https://revealjs.com">Reveal.js</a> authors and contributors for creating such a great presentation framework!</p>
 </header>

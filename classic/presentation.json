@@ -4,7 +4,7 @@
     "author": "John Doe",
     "lang": "en",
     "template": {
-        "name": "fit",
+        "name": "classic",
         "properties": {
             "footer": "Sample footer -- edit presentation.json",
             "highlight": "googlecode"
