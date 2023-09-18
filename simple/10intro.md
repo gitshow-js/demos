@@ -10,6 +10,5 @@ Welcome to GitShow!
 
 # Introduction
 
-- Veni
-- Vidi
-- Vici
+GitShow allows to simply create slides from markdown files.
+
